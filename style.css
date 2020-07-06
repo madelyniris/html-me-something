@@ -2,9 +2,16 @@ body {
     background-repeat: repeat;
     background-image: url("https://belhevi.neocities.org/bg-image.jpg");
     color: gray;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+    div
+    {
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    }
 }
