@@ -1,11 +1,10 @@
 body {
-    background-image: url("bg-image.jpg");
     background-repeat: repeat;
-    background-color: lightpink;
+    background-color: #F08080;
     color: gray;
     font-family: Times;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-    }
+}
